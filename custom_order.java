@@ -1,5 +1,4 @@
-// Code for Beginning Java's Cake & Cupcake Shop Tutorial
-
+// Code for Beginning Java's Cake & Cupcake Shop Tutori
 import java.util.Scanner;  // Needed for the Scanner class to read input
 
 public class custom_order {
